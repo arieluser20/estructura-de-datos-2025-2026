@@ -1,0 +1,18 @@
+=== SISTEMA DE REGISTRO DE ESTUDIANTE ===
+Ingrese ID: 2025001
+Ingrese nombres: Juan Pérez
+Ingrese apellidos: Gómez López
+Ingrese dirección: Quito, Ecuador
+Ingrese teléfono 1: 0991234567
+Ingrese teléfono 2: 0223456789
+Ingrese teléfono 3: 0999876543
+
+=== INFORMACIÓN DEL ESTUDIANTE ===
+ID: 2025001
+Nombres: Juan Pérez
+Apellidos: Gómez López
+Dirección: Quito, Ecuador
+Teléfonos:
+  Teléfono 1: 0991234567
+  Teléfono 2: 0223456789
+  Teléfono 3: 0999876543
